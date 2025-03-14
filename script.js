@@ -1,5 +1,5 @@
 const questions = [
-    {
+  {
     question: "Thủ đô của Việt Nam là gì?",
     options: ["Hà Nội", "TP. Hồ Chí Minh", "Đà Nẵng", "Huế"],
     answer: "Hà Nội",
